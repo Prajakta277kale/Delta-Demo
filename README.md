@@ -1,2 +1,3 @@
 # Delta-Demo
-This is a Delta Demo Repository .
+This is a Delta Demo Repository.
+
